@@ -1,0 +1,27 @@
+[
+    
+       {
+        "id":100,
+       "product_name": "Sustainability Starter Kit" ,
+       "Product_img":"https://static.wixstatic.com/media/ead566_a12b3feb70ae46139eee97c99f6ecebf~mv2.jpg/v1/fill/w_1470,h_827,al_c,q_85,usm_0.66_1.00_0.01/ead566_a12b3feb70ae46139eee97c99f6ecebf~mv2.webp",
+       "description":"This starter kit is all you need to start the revolution ",
+       "contents":[{"cnt1":"2 Bamboo Straws"},
+                   {"cnt2":"1 Plant Based Reusable Cup with 2 lids"},
+                   {"cnt3":"1 Natural Loofah"},
+                   {"cnt4":"1 box of 50 Bamboo Cotton Eartips"},
+                   {"cnt5":"1 Bamboo Toothbrush"}
+                ],
+        "priceb":"$50.00",
+        "price":"$10.99",
+        "img1":"https://static.wixstatic.com/media/ead566_be12cf35ae454264874d19841803bf17~mv2.jpg/v1/fill/w_1470,h_827,al_c,q_85,usm_0.66_1.00_0.01/ead566_be12cf35ae454264874d19841803bf17~mv2.webp",
+        "img2":"https://www.earthly.ie/product-page/bamboo-toothbrush",
+        "img3":"https://static.wixstatic.com/media/ead566_accfe36a331741fb81daacaa4d00c94d~mv2.jpg/v1/fill/w_459,h_459,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_accfe36a331741fb81daacaa4d00c94d~mv2.jpg",
+        "img4":"https://www.earthly.ie/product-page/reusable-plant-based-cups"
+        }
+
+
+            
+        
+
+    
+]

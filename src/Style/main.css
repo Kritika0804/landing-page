@@ -1,0 +1,75 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    padding-top: 0%;
+    margin-top: 0;
+    background-image: linear-gradient(to right, rgb(60, 206, 97) ,rgb(182, 240, 193) );
+    /* background-color:linear-gradient(180deg, rgb(76, 189, 153), rgb(141, 229, 201)); */
+   
+   color: aliceblue;
+}
+
+.left{
+    padding: 20px;
+    /* margin: 10px; */
+    width: 50%;
+    text-align: center;
+    /* border:2px solid black; */
+    padding-bottom: 100px;
+    /* background-color: #75816b; */
+    background-color: rgb(2, 119, 87);
+    /* background-color: rgb(177, 231, 231); */
+}
+
+.right{
+    padding: 30px;
+    /* margin: 10px; */
+    width: 50%;
+    background-color: rgb(2, 119, 87);
+    /* background-color: rgb(156, 248, 248); */
+    /* border:2px solid black; */
+    
+}
+
+img{
+    height: 500px;
+    width: 600px;
+}
+
+.Rating{
+    margin-bottom: 30px;
+}
+
+.price-before{
+    text-decoration: line-through;
+    margin-bottom: 0%;
+    padding-bottom: 0;
+}
+
+  .cssbuttons-io-button {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0.7em 1.4em 0.7em 1.1em;
+    margin-left: 0%;
+    
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+    letter-spacing: 0.05em;
+    border-radius: 10em;
+   }
+
+   .cssbuttons-io-button:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+   }
+   
+   .cssbuttons-io-button:active {
+    box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+   }
+  
+  
