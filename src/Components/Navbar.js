@@ -11,10 +11,10 @@ function Navbar() {
 
             <div>
                 <ul id='navbar-ele'>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html">Shop</a></li>
-                    <li><a href="index.html">Contact</a></li>
-                    <li><a href="index.html">Login</a></li>
+                    <li><a className='nav-link' href="#Home">Home</a></li>
+                    <li><a className='nav-link' href="#Shop">Shop</a></li>
+                    <li><a className='nav-link' href="#Contact">Contact</a></li>
+                    <li><a className='nav-link' href="#Login">Login</a></li>
                 </ul>
             </div>
         </nav>
